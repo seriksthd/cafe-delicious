@@ -1,0 +1,13 @@
+fastapi==0.88.0
+uvicorn==0.20.0
+motor==3.3.1
+pymongo==4.5.0
+python-dotenv>=1.0.1
+pydantic==1.10.22
+pyjwt>=2.10.1
+bcrypt>=4.0.1
+passlib>=1.7.4
+python-multipart>=0.0.9
+email-validator>=2.2.0
+requests>=2.31.0
+tzdata>=2024.2
